@@ -1,15 +1,7 @@
 ## About Me 
 
-👋 Hi there! I'm a Front-End Developer with a strong foundation in UI/UX design and over three years of experience as a self-taught graphic designer specializing in both digital and print media.
+I’m an AI Systems Developer focused on building practical AI-powered tools that turn web data into structured, usable datasets for intelligent applications. I work mainly with Python and FastAPI, building systems like web crawlers, scrapers, dataset builders, and RAG pipelines.
 
-🔹 I have experience with RAD tools and AI development tools, allowing me to build efficient and intelligent applications.
+I focus on shipping real, production-style projects that reflect how AI systems work in practice. My interest lies in backend AI infrastructure, data processing, and retrieval-based systems.
 
-🔹 Beyond front-end development, I have knowledge of backend development, computer systems & hardware, and computer networks.
-
-🔹 Currently, I'm preparing for AWS certification and expanding my skill set in DevOps through self-learning.
-
-🚀 Passionate about building top-tier digital experiences and always exploring new technologies!
-
-⚡ Fun fact: 🎨💻 I can switch between designing a sleek UI and troubleshooting hardware issues in the same day—like a digital Swiss Army knife! 😄
-
-Let’s connect and build something amazing! ✨🚀
+My goal is to keep improving in AI system design and build scalable tools that power real-world applications.
