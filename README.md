@@ -1,7 +1,26 @@
 ## About Me 
 
-I’m an AI Systems Developer building AI agents, automation workflows, and data pipelines using Python and modern AI tools. My work focuses on creating practical systems that connect data, logic, and automation into usable AI-driven applications.
+I design AI systems that bridge product strategy and business operations.
 
-I work mainly with Python and FastAPI, and I’ve built projects involving web crawling, dataset generation, and early-stage RAG systems. I’m also actively exploring automation tools like n8n and Make to design end-to-end workflows that reduce manual processes.
+My work focuses on designing and implementing AI agents, automation workflows, and data pipelines that help businesses improve efficiency, structure operations, and automate repetitive processes.
 
-I focus on building real, functional systems that reflect how AI is applied in production environments. My goal is to keep improving in AI system design, automation, and scalable backend architecture.
+I specialize in translating business requirements into system architectures and workflow designs, then bringing them to life using AI tools and modern automation platforms.
+
+What I Do
+AI Systems & Workflow Design
+AI Agents for Business Operations
+BizOps & Product Automation
+Requirements Analysis & System Architecture
+Data Pipelines for AI applications
+
+Tools & Technologies
+Automation Platforms: n8n, Make.com
+Advanced Prompt Engineering & AI-Assisted Development
+Data & AI Infrastructure: Python (AI-driven execution), Web Crawling (Playwright, BeautifulSoup)
+Frameworks & Framework Design: RAG Systems, FastAPI (System Architecture)
+
+
+Focus Areas
+AI-driven business process automation for startups and SMEs.
+Internal tool design and Product Operations (ProdOps).
+Data structuring for RAG pipelines and custom AI knowledge bases.
