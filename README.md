@@ -1,7 +1,7 @@
 ## About Me 
 
-I’m an AI Systems Developer focused on building practical AI-powered tools that turn web data into structured, usable datasets for intelligent applications. I work mainly with Python and FastAPI, building systems like web crawlers, scrapers, dataset builders, and RAG pipelines.
+I’m an AI Systems Developer building AI agents, automation workflows, and data pipelines using Python and modern AI tools. My work focuses on creating practical systems that connect data, logic, and automation into usable AI-driven applications.
 
-I focus on shipping real, production-style projects that reflect how AI systems work in practice. My interest lies in backend AI infrastructure, data processing, and retrieval-based systems.
+I work mainly with Python and FastAPI, and I’ve built projects involving web crawling, dataset generation, and early-stage RAG systems. I’m also actively exploring automation tools like n8n and Make to design end-to-end workflows that reduce manual processes.
 
-My goal is to keep improving in AI system design and build scalable tools that power real-world applications.
+I focus on building real, functional systems that reflect how AI is applied in production environments. My goal is to keep improving in AI system design, automation, and scalable backend architecture.
